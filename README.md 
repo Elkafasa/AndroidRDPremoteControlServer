@@ -1,0 +1,29 @@
+# RemoteControlServer (0.1.0-beta)
+
+This is v0.1.0 of the RemoteControlServer — a LAN-discoverable Android remote control & streaming server for gaming and remote control use.
+
+## Features (v0.1.0)
+- Screen capture via MediaProjection (480p@30 default).
+- Hardware H.264 encoding (MediaCodec) with dynamic bitrate API exposure.
+- Microphone capture (raw PCM) streaming (future: AAC/Opus encode).
+- Local network discovery via UDP broadcast.
+- Simple pairing via 6-digit code and QR generation.
+- AEAD protection using Google Tink for media frames (pairing-provisioned keyset).
+- AccessibilityService-based multi-touch injection (true multi-pointer gestures).
+- Telemetry (battery/thermal sampling).
+- Control server listening on TCP port 5000 (JSON messages).
+
+## Build
+1. Android SDK + JDK 17 recommended.
+2. `./gradlew clean assembleDebug`
+3. Install `app/build/outputs/apk/debug/app-debug.apk`
+
+## Notes & Future Work
+- Add proper TLS WebSocket control channel (planned).
+- Add secure key exchange (ECDH) instead of storing serialized keysets on-device.
+- Add AAC/Opus audio encoding and playback support on client.
+- Add WAN relay server for remote access.
+- Integrate Crashlytics or Sentry.
+
+## Privacy
+- This app requests accessibility and screen capture permissions. It is intended only for devices you control. Do not share pairing codes with untrusted parties.

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Remote Control Server</string>
+    <string name="start_server">Start Server</string>
+    <string name="stop_server">Stop Server</string>
+    <string name="status_not_running">Server not running</string>
+    <string name="status_running">Server running on %1$s:%2$d</string>
+    <string name="accessibility_service_label">Remote Input Accessibility</string>
+    <string name="pairing_code_prompt">Enter pairing code on client</string>
+</resources>

@@ -1,0 +1,16 @@
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/NetworkUtils.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/InputHandler.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/Encoder.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/QRCodeHelper.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/NetworkStreamer.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/RemoteService.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/NetworkDiscovery.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/QRGenerator.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/RemoteServiceHelper.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/ScreenCaptureAccessibilityService.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/MyApplication.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/BundleSerializer.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/ScreenCaptureService.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/RemoteAccessibilityService.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/IntentSerializer.kt
+/Users/ahmedelkafas/Documents/RemoteControlServer/app/src/main/java/com/example/remotecontrolserver/MainActivity.kt
